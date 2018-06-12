@@ -1,0 +1,22 @@
+{
+  "name": "NekoeSample",
+  "version": "0.1.0",
+  "summary": "A short description of NekoeSample.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/nekoe/NekoeSample",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "nekoe": "kazuhiro.nakae@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/nekoe/NekoeSample.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "NekoeSample/Classes/**/*"
+}

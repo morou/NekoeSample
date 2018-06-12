@@ -1,0 +1,6 @@
+framework module NekoeSample {
+  umbrella header "NekoeSample-umbrella.h"
+
+  export *
+  module * { export * }
+}

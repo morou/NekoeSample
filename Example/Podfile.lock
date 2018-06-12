@@ -1,0 +1,16 @@
+PODS:
+  - NekoeSample (0.1.0)
+
+DEPENDENCIES:
+  - NekoeSample (from `../`)
+
+EXTERNAL SOURCES:
+  NekoeSample:
+    :path: ../
+
+SPEC CHECKSUMS:
+  NekoeSample: f9b6b381b88dccec484326e2b11b0aa032da9992
+
+PODFILE CHECKSUM: 27d51e5d0da6c4057114d3f55d88020a7e642cfa
+
+COCOAPODS: 1.4.0
