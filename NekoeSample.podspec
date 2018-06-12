@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'NekoeSample'
-  s.version          = '2.3.1'
+  s.version          = '2.3.2'
   s.summary          = 'nekoe sample'
   s.homepage         = 'https://github.com/morou/NekoeSample'
   s.license          = {
@@ -17,6 +17,7 @@ Pod::Spec.new do |s|
 
   s.platform         = :ios
   s.swift_version    = '3.2'
+  s.ios.deployment_target = '8.0'
 
   s.source_files = 'NekoeSample/Classes/**/*'
 
