@@ -1,0 +1,6 @@
+use_frameworks!
+target 'NekoeSample_Tests' do
+  pod 'NekoeSample', :path => '../'
+  
+  
+end
