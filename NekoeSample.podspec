@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'NekoeSample'
-  s.version          = '2.3.2'
+  s.version          = '2.3.3'
   s.summary          = 'nekoe sample'
   s.homepage         = 'https://github.com/morou/NekoeSample'
   s.license          = {
